@@ -15,8 +15,23 @@ p {
 .links {
   display: block;
   text-align: center;
+ 
 }
 
 a {
     margin: 20px;
+}
+
+.croissant-photo {
+    text-align: center;
+    display: block;
+    max-width: 600px;
+    margin: 30px auto;
+    
+}
+
+.contact {
+    display: block;
+    text-align: center;
+    margin: 10px;
 }
